@@ -21,13 +21,14 @@ This repository is the official implementation of "Automatic Real-to-Sim-to-Real
 
 6. rl_games (in-your-virtualenv-packages)
 > We modify and use the implementation of the "rl_games" library (link: https://github.com/Denys88/rl_games).
+
 > You can download the modified rl_games package from "https://drive.google.com/file/d/16yJqIANft8j-fK4QsjkFTv8Uxp-aP8Ib/view?usp=drive_link".
 
 ## Requirements
 
 We use python3.10 & Ubuntu 20.04 for the ARIC implementation.
 
-> Please refer to the original github page for installation instructions for each reference.
+Please refer to the original github page for installation instructions for each reference.
 
 ## ARIC: Real-to-Sim Phase
 
@@ -41,5 +42,6 @@ You can find the Real-to-Sim process of ARIC in "Object_Reconstruction.ipynb".
 You can find the Sim-to-Real process of ARIC in "Task1.Push-to-Goal.ipynb".
 
 > Observation examples for the Push-to-Goal task can be downloaded from "https://drive.google.com/file/d/1ZH69a-inL0y_ZrNdx-B82AHH5gLWhP8q/view?usp=drive_link".
+
 > Pre-trained checkpoint for the Push-to-Goal task can be downloaded from "https://drive.google.com/file/d/1Qfuq3HkCQcXpqYYQJQMZbqyXyeKCn1hf/view?usp=drive_link".
 
