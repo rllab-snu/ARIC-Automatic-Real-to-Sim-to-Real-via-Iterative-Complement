@@ -30,16 +30,16 @@ We use python3.10 & Ubuntu 20.04 for the ARIC implementation.
 
 Please refer to the original github page for installation instructions for each reference.
 
-## ARIC: Real-to-Sim Phase
+## Real-to-Sim Phase
 
 You can find the Real-to-Sim process of ARIC in "Object_Reconstruction.ipynb".
 
 > An example of observations of the real workspace can be downloaded from "https://drive.google.com/file/d/1kFubcwKMoUMQo5h8NZbI6gZ1pPv78EyH/view?usp=drive_link".
 
 
-## ARIC: Sim-to-Real Phase
+## Sim-to-Real Phase
 
-You can find the Sim-to-Real process of ARIC in "Task1.Push-to-Goal.ipynb".
+You can find the Sim-to-Real process of ARIC in "Task1. Push-to-Goal.ipynb".
 
 > Observation examples for the Push-to-Goal task can be downloaded from "https://drive.google.com/file/d/1ZH69a-inL0y_ZrNdx-B82AHH5gLWhP8q/view?usp=drive_link".
 
